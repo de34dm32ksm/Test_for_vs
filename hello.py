@@ -19,8 +19,9 @@ with open("names.txt", 'r', encoding='utf-8') as names_file:
             with open(name.strip()+".txt", 'w', encoding='utf-8') as mail_file:
                 mail_file.write(mail)
 
-print("hello")
+print("hello kkk")
 
 
 
-print("Ichlibe Sie")
+
+
